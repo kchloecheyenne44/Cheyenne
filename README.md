@@ -1,2 +1,1 @@
 # Cheyenne
-MIT tech proficient 
